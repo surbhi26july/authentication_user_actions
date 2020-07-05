@@ -36,26 +36,25 @@ The link given below contains a flowchart for the defined scenario
 
 ## Sample UI/UX
 
-```bash
 <a href="https://github.com/surbhi26july/authentication_user_actions/tree/master/UI">View UI/UX Diagrams</a>
 
-```
+
 
 ## Other Diagrams Included
-```bash
+
 <a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/MicroserviceArch.pdf">Microservice Architecture Diagram</a>
 <a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/databaseDiagram.JPG">Database Diagram</a>
-```
+
 ## API Documentation
-```bash
+
 <a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/apiDoc.html">API documentation file apiDoc.html</a>
 or 
 <a href="https://app.swaggerhub.com/apis/OtpApiDoc_Surbhi/requestOTP/1.0.0">API documentation Swagger Link</a>
-```
+
 ## Technical Documentation/Advatages and Disadvantages of the Mentioned Solution
-```bash
+
 <a href=" https://github.com/surbhi26july/authentication_user_actions/blob/master/AUTHENTICATION%20OF%20USER%20ACTIONS%20TECHNICAL%20DOC.docx">Technical Doc</a>
 
-```
+
 
 Created by Surbhi Kumar
