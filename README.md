@@ -30,7 +30,7 @@ User requires to authenticate its actions in the following cases :
 
 
 ## Simple FlowChart
-The link given below contains a flowchart for the defined scenario
+The link given below contains a flowchart for the defined scenario<br>
 <a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/FlowChart.pdf">View Flow Chart</a>
 
 
@@ -42,13 +42,13 @@ The link given below contains a flowchart for the defined scenario
 
 ## Other Diagrams Included
 
-<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/MicroserviceArch.pdf">Microservice Architecture Diagram</a>
+<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/MicroserviceArch.pdf">Microservice Architecture Diagram</a><br>
 <a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/databaseDiagram.JPG">Database Diagram</a>
 
 ## API Documentation
 
-<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/apiDoc.html">API documentation file apiDoc.html</a>
-or 
+<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/apiDoc.html">API documentation file apiDoc.html</a><br>
+or <br>
 <a href="https://app.swaggerhub.com/apis/OtpApiDoc_Surbhi/requestOTP/1.0.0">API documentation Swagger Link</a>
 
 ## Technical Documentation/Advatages and Disadvantages of the Mentioned Solution
