@@ -53,7 +53,7 @@ or <br>
 
 ## Technical Documentation/Advatages and Disadvantages of the Mentioned Solution
 
-<a href=" https://github.com/surbhi26july/authentication_user_actions/blob/master/AUTHENTICATION%20OF%20USER%20ACTIONS%20TECHNICAL%20DOC.docx">Technical Doc</a>
+<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/AUTHENTICATION%20OF%20USER%20ACTIONS%20TECHNICAL%20DOC.docx">Technical Doc</a>
 
 
 
