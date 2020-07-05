@@ -30,26 +30,26 @@ User requires to authenticate its actions in the following cases :
 
 
 ## Simple FlowChart
-File is attached in the github repository with name FlowChart.pdf
+https://github.com/surbhi26july/authentication_user_actions/blob/master/FlowChart.pdf
 
 ## Sample UI/UX
 
 ```bash
-UI/UX screens are classified under the UI folder
+https://github.com/surbhi26july/authentication_user_actions/tree/master/UI
 ```
 
 ## Other Diagrams Included
 ```bash
-Microservice Architecture Diagram : MicroServiceArch.pdf
-Database Diagram : databaseDiagram.JPG
+Microservice Architecture Diagram : https://github.com/surbhi26july/authentication_user_actions/blob/master/MicroserviceArch.pdf
+Database Diagram : https://github.com/surbhi26july/authentication_user_actions/blob/master/databaseDiagram.JPG
 ```
 ## API Documentation
 ```bash
-The API documentation file is : apiDoc.html
+The API documentation file is : https://github.com/surbhi26july/authentication_user_actions/blob/master/apiDoc.html
 ```
 ## Technical Documentation/Advatages and Disadvantages of the Mentioned Solution
 ```bash
-The file is created with the name : AUTHENTICATION OF USER ACTIONS TECHNICAL DOC.docx 
+The file is created with the name : https://github.com/surbhi26july/authentication_user_actions/blob/master/AUTHENTICATION%20OF%20USER%20ACTIONS%20TECHNICAL%20DOC.docx
 
 ```
 
