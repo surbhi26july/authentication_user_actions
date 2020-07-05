@@ -47,8 +47,10 @@ Database Diagram : databaseDiagram.JPG
 ```bash
 The API documentation file is : apiDoc.html
 ```
-## Technical Documentation
+## Technical Documentation/Advatages and Disadvantages of the Mentioned Solution
 ```bash
+The file is created with the name : AUTHENTICATION OF USER ACTIONS TECHNICAL DOC.docx 
+
 ```
 
 Created by Surbhi Kumar
