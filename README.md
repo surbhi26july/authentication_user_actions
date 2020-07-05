@@ -30,7 +30,8 @@ User requires to authenticate its actions in the following cases :
 
 
 ## Simple FlowChart
-https://github.com/surbhi26july/authentication_user_actions/blob/master/FlowChart.pdf
+<a href="https://github.com/surbhi26july/authentication_user_actions/blob/master/FlowChart.pdf">View Flow Chart</a>
+
 
 ## Sample UI/UX
 
